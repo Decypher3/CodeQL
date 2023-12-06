@@ -58,7 +58,7 @@ public class B {
     // non-whitelisted constructors don't pass taint
     StringWrapper herring = new StringWrapper(complex);
     sink(herring);
-    // toString does not pass taint yet
+
     String valueOfObject = String.valueOf(args);
     sink(valueOfObject);
 
