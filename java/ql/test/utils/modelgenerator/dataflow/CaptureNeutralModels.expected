@@ -17,9 +17,7 @@
 | p;PrivateFlowViaPublicInterface$SPI;openStream;();summary;df-generated |
 | p;PrivateFlowViaPublicInterface$SPI;openStreamNone;();summary;df-generated |
 | p;PrivateFlowViaPublicInterface;createAnSPIWithoutTrackingFile;(File);summary;df-generated |
-| p;Sinks;copyFileToDirectory;(Path,Path,CopyOption[]);summary;df-generated |
 | p;Sinks;propagate;(String);summary;df-generated |
-| p;Sinks;readUrl;(URL,Charset);summary;df-generated |
 | p;Sources;readUrl;(URL);summary;df-generated |
 | p;Sources;socketStream;();summary;df-generated |
 | p;Sources;sourceToParameter;(InputStream[],List);summary;df-generated |
